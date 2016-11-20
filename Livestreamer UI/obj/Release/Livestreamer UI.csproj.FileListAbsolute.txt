@@ -1,0 +1,11 @@
+C:\Users\Victor\Dropbox\Livestreamer UI\Livestreamer UI\bin\Release\Livestreamer UI.exe.config
+C:\Users\Victor\Dropbox\Livestreamer UI\Livestreamer UI\bin\Release\Livestreamer UI.exe
+C:\Users\Victor\Dropbox\Livestreamer UI\Livestreamer UI\bin\Release\Livestreamer UI.pdb
+C:\Users\Victor\Dropbox\Livestreamer UI\Livestreamer UI\bin\Release\Newtonsoft.Json.dll
+C:\Users\Victor\Dropbox\Livestreamer UI\Livestreamer UI\bin\Release\Newtonsoft.Json.xml
+C:\Users\Victor\Dropbox\Livestreamer UI\Livestreamer UI\obj\Release\Livestreamer_UI.Main_Form.resources
+C:\Users\Victor\Dropbox\Livestreamer UI\Livestreamer UI\obj\Release\Livestreamer_UI.Properties.Resources.resources
+C:\Users\Victor\Dropbox\Livestreamer UI\Livestreamer UI\obj\Release\Livestreamer UI.csproj.GenerateResource.Cache
+C:\Users\Victor\Dropbox\Livestreamer UI\Livestreamer UI\obj\Release\Livestreamer UI.exe
+C:\Users\Victor\Dropbox\Livestreamer UI\Livestreamer UI\obj\Release\Livestreamer UI.pdb
+C:\Users\Victor\Dropbox\Livestreamer UI\Livestreamer UI\obj\Release\Livestreamer UI.csprojResolveAssemblyReference.cache

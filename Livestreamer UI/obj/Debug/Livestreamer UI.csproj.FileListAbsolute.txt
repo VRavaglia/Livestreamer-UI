@@ -1,0 +1,20 @@
+c:\users\victor\documents\visual studio 2015\Projects\Livestreamer UI\Livestreamer UI\bin\Debug\Livestreamer UI.exe.config
+c:\users\victor\documents\visual studio 2015\Projects\Livestreamer UI\Livestreamer UI\bin\Debug\Livestreamer UI.exe
+c:\users\victor\documents\visual studio 2015\Projects\Livestreamer UI\Livestreamer UI\bin\Debug\Livestreamer UI.pdb
+c:\users\victor\documents\visual studio 2015\Projects\Livestreamer UI\Livestreamer UI\obj\Debug\Livestreamer UI.csprojResolveAssemblyReference.cache
+c:\users\victor\documents\visual studio 2015\Projects\Livestreamer UI\Livestreamer UI\obj\Debug\Livestreamer_UI.Form1.resources
+c:\users\victor\documents\visual studio 2015\Projects\Livestreamer UI\Livestreamer UI\obj\Debug\Livestreamer_UI.Properties.Resources.resources
+c:\users\victor\documents\visual studio 2015\Projects\Livestreamer UI\Livestreamer UI\obj\Debug\Livestreamer UI.csproj.GenerateResource.Cache
+c:\users\victor\documents\visual studio 2015\Projects\Livestreamer UI\Livestreamer UI\obj\Debug\Livestreamer UI.exe
+c:\users\victor\documents\visual studio 2015\Projects\Livestreamer UI\Livestreamer UI\obj\Debug\Livestreamer UI.pdb
+C:\Users\Victor\Dropbox\Livestreamer UI\Livestreamer UI\bin\Debug\Livestreamer UI.exe.config
+C:\Users\Victor\Dropbox\Livestreamer UI\Livestreamer UI\obj\Debug\Livestreamer UI.exe
+C:\Users\Victor\Dropbox\Livestreamer UI\Livestreamer UI\obj\Debug\Livestreamer UI.pdb
+C:\Users\Victor\Dropbox\Livestreamer UI\Livestreamer UI\bin\Debug\Livestreamer UI.exe
+C:\Users\Victor\Dropbox\Livestreamer UI\Livestreamer UI\bin\Debug\Livestreamer UI.pdb
+C:\Users\Victor\Dropbox\Livestreamer UI\Livestreamer UI\obj\Debug\Livestreamer UI.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Dropbox\Livestreamer UI\Livestreamer UI\obj\Debug\Livestreamer_UI.Properties.Resources.resources
+C:\Users\Victor\Dropbox\Livestreamer UI\Livestreamer UI\obj\Debug\Livestreamer UI.csproj.GenerateResource.Cache
+C:\Users\Victor\Dropbox\Livestreamer UI\Livestreamer UI\obj\Debug\Livestreamer_UI.Main_Form.resources
+C:\Users\Victor\Dropbox\Livestreamer UI\Livestreamer UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Victor\Dropbox\Livestreamer UI\Livestreamer UI\bin\Debug\Newtonsoft.Json.xml
